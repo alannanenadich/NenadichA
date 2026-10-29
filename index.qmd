@@ -3,14 +3,16 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_5286.jpeg
 ---
 
 :::{#me}
 
 ## Goals
+Make a change in the World
 
 ## Education
+MS. Earth Sciences, Geochemical Systems
 
 ## Experience
 
